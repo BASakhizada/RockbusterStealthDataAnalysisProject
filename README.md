@@ -1,4 +1,4 @@
-# rb_data_analysis
+# Rockbuster_Data_Analysis_Project
 ## Project Overview:
 This project involves analyzing historical data for Rockbuster Stealth LLC, a movie rental company transitioning to an online video streaming service to compete with platforms like Netflix and Amazon Prime. As a data analyst, my role was to assist the business intelligence team by loading the company’s data into a relational database and performing analysis to support Rockbuster's strategy for the online service launch.
 
